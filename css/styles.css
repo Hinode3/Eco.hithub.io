@@ -1,0 +1,27 @@
+.btn-1:hover{
+    transform: scale(1.1);
+    transition: 0.5s all;
+}
+
+.btn-3:hover{
+    transform: scale(1.1);
+    background-color: #A2C046;
+}
+
+#sectionfluid .imge2{
+    background-image: url(../img/hoja.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 105vh;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+}
+
+.bg-img{
+
+    background-image: url(../img/nat.png);
+  
+    
+    
+}
